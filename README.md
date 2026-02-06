@@ -2,7 +2,8 @@
 黑与白公益展的 claude 模型非常给力啊，还上了最新的 4.6
 但是，可能是接口包装不太符合SSE 规范，所以使用 visal studio 的 cline 拓展调用一致报错。
 于是写了个 php脚本放到服务器上，把上传和下载数据都加工加工，标准化一下，就完美跑通了，先上效果图
-![image|690x463](upload://fFTUf4BtNr9bdYrvtM8QxyG4xpf.jpeg)
+<img width="1262" height="794" alt="image" src="https://github.com/user-attachments/assets/5106e5b4-bdeb-44e2-8b1d-cffb7aabe1b9" />
+
 
 再附上 php 代码供大家使用：
 https://github.com/PaddyDu/hyb_claude_api_fix
